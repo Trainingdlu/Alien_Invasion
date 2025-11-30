@@ -1,4 +1,3 @@
-```markdown
 # Alien Invasion
 
 基于 Python 和 Pygame 开发的经典 2D 射击游戏。
@@ -6,16 +5,16 @@
 
 ## 游戏演示
 
-![Game](eg1.png)
-![Game](eg2.png)
+![Game](images/eg1.png)
+![Game](images/eg2.png)
 
 
 ## 主要功能
 
-- [x] **控制飞船**：自由移动，精准射击。
-- [x] **游戏难度**：随关卡增加上升。
-- [x] **记分系统**：包含实时得分和最高分记录。
-- [x] **优化体验**：丰富游戏玩法。
+- **控制飞船**：自由移动，精准射击。
+- **游戏难度**：随关卡增加上升。
+- **记分系统**：包含实时得分和最高分记录。
+- **优化体验**：丰富游戏玩法。
 
 ## 环境依赖
 
@@ -28,7 +27,7 @@
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/Trainingdlu/Alien_Invasion
+   git clone https://github.com/Trainingdlu/Alien_Invasion.git
    ```
 
 2. **安装依赖**
@@ -49,5 +48,5 @@
 
 ## 致谢
 - 原作者：[美] Eric Matthes
-- 开发者：Trainingdlu
-```
+- 开发者：Trainingcqy
+
